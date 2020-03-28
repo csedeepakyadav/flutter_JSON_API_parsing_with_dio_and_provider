@@ -1,16 +1,12 @@
-# jsonapiparsing
 
-A new Flutter project.
+<h1>JSON API Parsing With dio and Provider</h1>
+<hr>
 
-## Getting Started
+- Load JSON data with dio.
+- Use provider to fetch data using future in model class.
+- Retrive data using futurebuilder in UI.
+- Send Data to other Screen.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![json](https://user-images.githubusercontent.com/22419021/77836351-7a00a480-717b-11ea-85c4-fea725ac70d9.png)
